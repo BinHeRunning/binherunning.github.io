@@ -50,12 +50,13 @@
 1. https://github.com/tensorflow/tensorflow : TensorFlow
 2. https://github.com/tensorflow/fold : TensorFlow Fold (Deep learning with dynamic computation graphs in TensorFlow)
 3. https://github.com/tensorflow/playground : Play with neural networks! http://playground.tensorflow.org
-4. https://github.com/tflearn/tflearn : TFLearn: Deep learning library featuring a higher-level API for TensorFlow.
-5. https://github.com/Theano/Theano : Theano
-6. https://github.com/fchollet/keras : Deep Learning library for Python. Convnets, recurrent neural networks, and more. Runs on Theano or TensorFlow. http://keras-cn.readthedocs.io/en/latest/
-7. https://github.com/andersbll/deeppy : Deep learning in Python
-8. https://github.com/danielfrg/word2vec : Python interface to Google word2vec
-9. https://github.com/stanfordnlp/GloVe : GloVe: Global Vectors for Word Representation
+4. https://github.com/tflearn/tflearn : TFLearn: Deep learning library featuring a higher-level API for TensorFlow
+5. https://github.com/tensorflow/tensorflow/tree/master/tensorflow/tensorboard : TensorBoard
+6. https://github.com/Theano/Theano : Theano
+7. https://github.com/fchollet/keras : Deep Learning library for Python. Convnets, recurrent neural networks, and more. Runs on Theano or TensorFlow. http://keras-cn.readthedocs.io/en/latest/
+8. https://github.com/andersbll/deeppy : Deep learning in Python
+9. https://github.com/danielfrg/word2vec : Python interface to Google word2vec
+10. https://github.com/stanfordnlp/GloVe : GloVe: Global Vectors for Word Representation
 
 ### Readings
 
