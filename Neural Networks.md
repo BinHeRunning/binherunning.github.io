@@ -48,21 +48,23 @@
 ### Tools
 
 1. https://github.com/tensorflow/tensorflow : TensorFlow
-2. https://github.com/tensorflow/playground : Play with neural networks! http://playground.tensorflow.org
-3. https://github.com/tflearn/tflearn : TFLearn: Deep learning library featuring a higher-level API for TensorFlow.
-4. https://github.com/Theano/Theano : Theano
-5. https://github.com/fchollet/keras : Deep Learning library for Python. Convnets, recurrent neural networks, and more. Runs on Theano or TensorFlow. http://keras-cn.readthedocs.io/en/latest/
-6. https://github.com/andersbll/deeppy : Deep learning in Python
-7. https://github.com/danielfrg/word2vec : Python interface to Google word2vec
-8. https://github.com/stanfordnlp/GloVe : GloVe: Global Vectors for Word Representation
+2. https://github.com/tensorflow/fold : TensorFlow Fold (Deep learning with dynamic computation graphs in TensorFlow)
+3. https://github.com/tensorflow/playground : Play with neural networks! http://playground.tensorflow.org
+4. https://github.com/tflearn/tflearn : TFLearn: Deep learning library featuring a higher-level API for TensorFlow.
+5. https://github.com/Theano/Theano : Theano
+6. https://github.com/fchollet/keras : Deep Learning library for Python. Convnets, recurrent neural networks, and more. Runs on Theano or TensorFlow. http://keras-cn.readthedocs.io/en/latest/
+7. https://github.com/andersbll/deeppy : Deep learning in Python
+8. https://github.com/danielfrg/word2vec : Python interface to Google word2vec
+9. https://github.com/stanfordnlp/GloVe : GloVe: Global Vectors for Word Representation
 
 ### Readings
 
 1. https://github.com/andrewt3000/DL4NLP : Deep Learning for NLP resources (task-wise)
 2. https://github.com/shashankg7/Deep-Learning-for-NLP-Resources : Deep-Learning-for-NLP-Resources (classification-wise)
-3. https://github.com/marekrei/theano-tutorial : Theano tutorial
-4. https://cs224d.stanford.edu/lectures/CS224d-Lecture7.pdf : CS224d: TensorFlow Tutorial
-5. https://github.com/tflearn/tflearn/blob/master/tutorials/intro/quickstart.md : TFLearn - Quick Start
-6. https://www.youtube.com/watch?v=bvHgESVuS6Q&feature=youtu.be : Learning TensorFlow (video: 40:41)
-7. http://jorditorres.org/first-contact-with-tensorflow/ : First contact with TensorFlow, get started with with Deep Learning programming
-8. https://github.com/aymericdamien/TensorFlow-Examples : TensorFlow Examples
+3. https://github.com/oxford-cs-deepnlp-2017/lectures : Oxford Deep NLP 2017 course
+4. https://github.com/marekrei/theano-tutorial : Theano tutorial
+5. https://cs224d.stanford.edu/lectures/CS224d-Lecture7.pdf : CS224d: TensorFlow Tutorial
+6. https://github.com/tflearn/tflearn/blob/master/tutorials/intro/quickstart.md : TFLearn - Quick Start
+7. https://www.youtube.com/watch?v=bvHgESVuS6Q&feature=youtu.be : Learning TensorFlow (video: 40:41)
+8. http://jorditorres.org/first-contact-with-tensorflow/ : First contact with TensorFlow, get started with with Deep Learning programming
+9. https://github.com/aymericdamien/TensorFlow-Examples : TensorFlow Examples
