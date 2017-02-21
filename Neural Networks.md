@@ -60,12 +60,13 @@
 
 ### Readings
 
-1. https://github.com/andrewt3000/DL4NLP : Deep Learning for NLP resources (task-wise)
-2. https://github.com/shashankg7/Deep-Learning-for-NLP-Resources : Deep-Learning-for-NLP-Resources (classification-wise)
-3. https://github.com/oxford-cs-deepnlp-2017/lectures : Oxford Deep NLP 2017 course
-4. https://github.com/marekrei/theano-tutorial : Theano tutorial
-5. https://cs224d.stanford.edu/lectures/CS224d-Lecture7.pdf : CS224d: TensorFlow Tutorial
-6. https://github.com/tflearn/tflearn/blob/master/tutorials/intro/quickstart.md : TFLearn - Quick Start
-7. https://www.youtube.com/watch?v=bvHgESVuS6Q&feature=youtu.be : Learning TensorFlow (video: 40:41)
-8. http://jorditorres.org/first-contact-with-tensorflow/ : First contact with TensorFlow, get started with with Deep Learning programming
-9. https://github.com/aymericdamien/TensorFlow-Examples : TensorFlow Examples
+1. https://github.com/terryum/awesome-deep-learning-papers : Awesome - Most Cited Deep Learning Papers
+2. https://github.com/andrewt3000/DL4NLP : Deep Learning for NLP resources (task-wise)
+3. https://github.com/shashankg7/Deep-Learning-for-NLP-Resources : Deep-Learning-for-NLP-Resources (classification-wise)
+4. https://github.com/oxford-cs-deepnlp-2017/lectures : Oxford Deep NLP 2017 course
+5. https://github.com/marekrei/theano-tutorial : Theano tutorial
+6. https://cs224d.stanford.edu/lectures/CS224d-Lecture7.pdf : CS224d: TensorFlow Tutorial
+7. https://github.com/tflearn/tflearn/blob/master/tutorials/intro/quickstart.md : TFLearn - Quick Start
+8. https://www.youtube.com/watch?v=bvHgESVuS6Q&feature=youtu.be : Learning TensorFlow (video: 40:41)
+9. http://jorditorres.org/first-contact-with-tensorflow/ : First contact with TensorFlow, get started with with Deep Learning programming
+10. https://github.com/aymericdamien/TensorFlow-Examples : TensorFlow Examples
