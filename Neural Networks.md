@@ -57,6 +57,15 @@
 8. https://github.com/andersbll/deeppy : Deep learning in Python
 9. https://github.com/danielfrg/word2vec : Python interface to Google word2vec
 10. https://github.com/stanfordnlp/GloVe : GloVe: Global Vectors for Word Representation
+11. https://github.com/pytorch/pytorch: PyTorch
+
+
+
+## Attention Networks
+
+1. https://github.com/harvardnlp/struct-attn : Structured Attention Networks
+
+
 
 ### Readings
 
@@ -70,3 +79,4 @@
 8. https://www.youtube.com/watch?v=bvHgESVuS6Q&feature=youtu.be : Learning TensorFlow (video: 40:41)
 9. http://jorditorres.org/first-contact-with-tensorflow/ : First contact with TensorFlow, get started with with Deep Learning programming
 10. https://github.com/aymericdamien/TensorFlow-Examples : TensorFlow Examples
+11. https://github.com/thunlp/NRLPapers : Must-read papers on NRL/NE.
