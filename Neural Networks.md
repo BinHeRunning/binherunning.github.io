@@ -34,6 +34,10 @@
 4. https://github.com/raghavchalapathy/Bidirectional-LSTM-CRF-for-Clinical-Concept-Extraction : "Bidirectional LSTM-CRF for Clinical Concept Extraction" at Clinical Natural Language Processing Workshop at COLING 2016
 5. https://github.com/abhyudaynj/LSTM-CRF-models :  [Structured Prediction Models for RNN based Sequence Labeling in clinical text](http://aclweb.org/anthology/D/D16/D16-1082.pdf), EMNLP 2016.
 
+## Attention Networks
+
+1. https://github.com/harvardnlp/struct-attn : Structured Attention Networks
+
 ## Word Embbeding
 
 1. https://github.com/3Top/word2vec-api : word2vec-api
@@ -45,38 +49,35 @@
 
 ## Resources
 
+### Datasets
+1. http://deeplearning.net/datasets/ : deep learning datasets
+
 ### Tools
 
-1. https://github.com/tensorflow/tensorflow : TensorFlow
-2. https://github.com/tensorflow/fold : TensorFlow Fold (Deep learning with dynamic computation graphs in TensorFlow)
-3. https://github.com/tensorflow/playground : Play with neural networks! http://playground.tensorflow.org
-4. https://github.com/tflearn/tflearn : TFLearn: Deep learning library featuring a higher-level API for TensorFlow
-5. https://github.com/tensorflow/tensorflow/tree/master/tensorflow/tensorboard : TensorBoard
-6. https://github.com/Theano/Theano : Theano
-7. https://github.com/fchollet/keras : Deep Learning library for Python. Convnets, recurrent neural networks, and more. Runs on Theano or TensorFlow. http://keras-cn.readthedocs.io/en/latest/
-8. https://github.com/andersbll/deeppy : Deep learning in Python
-9. https://github.com/danielfrg/word2vec : Python interface to Google word2vec
-10. https://github.com/stanfordnlp/GloVe : GloVe: Global Vectors for Word Representation
-11. https://github.com/pytorch/pytorch: PyTorch
-
-
-
-## Attention Networks
-
-1. https://github.com/harvardnlp/struct-attn : Structured Attention Networks
-
-
+1. http://deeplearning.net/software_links/ : deep learning softwares
+2. https://github.com/tensorflow/tensorflow : TensorFlow
+3. https://github.com/tensorflow/fold : TensorFlow Fold (Deep learning with dynamic computation graphs in TensorFlow)
+4. https://github.com/tensorflow/playground : Play with neural networks! http://playground.tensorflow.org
+5. https://github.com/tflearn/tflearn : TFLearn: Deep learning library featuring a higher-level API for TensorFlow
+6. https://github.com/tensorflow/tensorflow/tree/master/tensorflow/tensorboard : TensorBoard
+7. https://github.com/Theano/Theano : Theano
+8. https://github.com/fchollet/keras : Deep Learning library for Python. Convnets, recurrent neural networks, and more. Runs on Theano or TensorFlow. http://keras-cn.readthedocs.io/en/latest/
+9. https://github.com/andersbll/deeppy : Deep learning in Python
+10. https://github.com/danielfrg/word2vec : Python interface to Google word2vec
+11. https://github.com/stanfordnlp/GloVe : GloVe: Global Vectors for Word Representation
+12. https://github.com/pytorch/pytorch: PyTorch
 
 ### Readings
 
-1. https://github.com/terryum/awesome-deep-learning-papers : Awesome - Most Cited Deep Learning Papers
-2. https://github.com/andrewt3000/DL4NLP : Deep Learning for NLP resources (task-wise)
-3. https://github.com/shashankg7/Deep-Learning-for-NLP-Resources : Deep-Learning-for-NLP-Resources (classification-wise)
-4. https://github.com/oxford-cs-deepnlp-2017/lectures : Oxford Deep NLP 2017 course
-5. https://github.com/marekrei/theano-tutorial : Theano tutorial
-6. https://cs224d.stanford.edu/lectures/CS224d-Lecture7.pdf : CS224d: TensorFlow Tutorial
-7. https://github.com/tflearn/tflearn/blob/master/tutorials/intro/quickstart.md : TFLearn - Quick Start
-8. https://www.youtube.com/watch?v=bvHgESVuS6Q&feature=youtu.be : Learning TensorFlow (video: 40:41)
-9. http://jorditorres.org/first-contact-with-tensorflow/ : First contact with TensorFlow, get started with with Deep Learning programming
-10. https://github.com/aymericdamien/TensorFlow-Examples : TensorFlow Examples
-11. https://github.com/thunlp/NRLPapers : Must-read papers on NRL/NE.
+1. http://deeplearning.net/reading-list/tutorials/ : deep learning tutorials
+2. https://github.com/terryum/awesome-deep-learning-papers : Awesome - Most Cited Deep Learning Papers
+3. https://github.com/andrewt3000/DL4NLP : Deep Learning for NLP resources (task-wise)
+4. https://github.com/shashankg7/Deep-Learning-for-NLP-Resources : Deep-Learning-for-NLP-Resources (classification-wise)
+5. https://github.com/oxford-cs-deepnlp-2017/lectures : Oxford Deep NLP 2017 course
+6. https://github.com/marekrei/theano-tutorial : Theano tutorial
+7. https://cs224d.stanford.edu/lectures/CS224d-Lecture7.pdf : CS224d: TensorFlow Tutorial
+8. https://github.com/tflearn/tflearn/blob/master/tutorials/intro/quickstart.md : TFLearn - Quick Start
+9. https://www.youtube.com/watch?v=bvHgESVuS6Q&feature=youtu.be : Learning TensorFlow (video: 40:41)
+10. http://jorditorres.org/first-contact-with-tensorflow/ : First contact with TensorFlow, get started with with Deep Learning programming
+11. https://github.com/aymericdamien/TensorFlow-Examples : TensorFlow Examples
+12. https://github.com/thunlp/NRLPapers : Must-read papers on NRL/NE.
