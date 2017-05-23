@@ -61,11 +61,12 @@
 5. https://github.com/tflearn/tflearn : TFLearn: Deep learning library featuring a higher-level API for TensorFlow
 6. https://github.com/tensorflow/tensorflow/tree/master/tensorflow/tensorboard : TensorBoard
 7. https://github.com/Theano/Theano : Theano
-8. https://github.com/fchollet/keras : Deep Learning library for Python. Convnets, recurrent neural networks, and more. Runs on Theano or TensorFlow. http://keras-cn.readthedocs.io/en/latest/
-9. https://github.com/andersbll/deeppy : Deep learning in Python
-10. https://github.com/danielfrg/word2vec : Python interface to Google word2vec
-11. https://github.com/stanfordnlp/GloVe : GloVe: Global Vectors for Word Representation
-12. https://github.com/pytorch/pytorch: PyTorch
+8. https://github.com/mnielsen/neural-networks-and-deep-learning : Code samples for "Neural Networks and Deep Learning"
+9. https://github.com/fchollet/keras : Deep Learning library for Python. Convnets, recurrent neural networks, and more. Runs on Theano or TensorFlow. http://keras-cn.readthedocs.io/en/latest/
+10. https://github.com/andersbll/deeppy : Deep learning in Python
+11. https://github.com/danielfrg/word2vec : Python interface to Google word2vec
+12. https://github.com/stanfordnlp/GloVe : GloVe: Global Vectors for Word Representation
+13. https://github.com/pytorch/pytorch: PyTorch
 
 ### Readings
 
