@@ -81,4 +81,5 @@
 9. https://www.youtube.com/watch?v=bvHgESVuS6Q&feature=youtu.be : Learning TensorFlow (video: 40:41)
 10. http://jorditorres.org/first-contact-with-tensorflow/ : First contact with TensorFlow, get started with with Deep Learning programming
 11. https://github.com/aymericdamien/TensorFlow-Examples : TensorFlow Examples
-12. https://github.com/thunlp/NRLPapers : Must-read papers on NRL/NE.
+12. https://github.com/thunlp/NRLPapers : Must-read papers on NRL/NE
+13. http://cs231n.github.io/ : CS231n: Convolutional Neural Networks for Visual Recognition
