@@ -1,10 +1,250 @@
-<!DOCTYPE <html>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html>
-	<head>
-		<meta charset="utf-8">
-		<title>Bin He</title>
-	</head>
-	<body>
-		<p>My name is Bin He, a Ph.D student from Harbin Institute of Technology, this is <a href="cv.pdf">my CV</a>.</p>
-	</body>
+
+<style>
+  #header {
+    width: 100%;
+    float: left;
+    padding: 5px 100px 5px 100px;
+  }
+
+  #section {
+    width: 100%;
+    float: left;
+    padding: 5px 100px 5px 100px;
+  }
+
+  subsection {
+    font-size: 110%;
+  }
+</style>
+
+
+<head>
+  <meta content="text/html; charset=UTF-8" http-equiv="Content-Type" />
+  <title>
+    Bin He - Homepage
+  </title>
+  <link rel="stylesheet" href="./css/bootstrap.min.css">
+  <link rel="stylesheet" href="./css/fontawesome-all.min.css">
+  <!-- <link rel="stylesheet" href="https://cdn.rawgit.com/jpswalsh/academicons/master/css/academicons.min.css"> -->
+  <script type="text/x-mathjax-config">
+    MathJax.Hub.Config({tex2jax: {inlineMath: [['$','$'], ['\\(','\\)']]}});
+  </script>
+  <script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
+  </script>
+  <style type="text/css">
+    .row {
+      margin-left: 0px;
+      margin-right: 0px;
+    }
+
+
+    /*
+    .container{
+      background:url(chao.png) no-repeat;
+      background-size: 100% auto;
+      -webkit-background-size: 100% auto;
+      border: 2px solid black;
+      margin:auto;
+      width:300px;
+      height:300px;
+    }*/
+
+    h1 {
+      font-size: 30px;
+    }
+
+    h2 {
+      font-size: 20px;
+    }
+
+    h3 {
+      width: 50%;
+      font-size: 20px;
+    }
+
+    body {
+      font-size: 16px;
+    }
+
+    header {
+      width: 100%;
+      height: 80px;
+    }
+  </style>
+</head>
+
+<body>
+  <br/>
+
+  <div id=header>
+    <h1>Bin He (何 彬) </h1>
+
+    <br/>
+
+    <p> Ph.D. candidate, Harbin Institute of Technology</p>
+    <p> Natural Language Processing </p>
+    <p><i class="fab fa-github"></i> <a href="https://github.com/BinHeRunning"> BinHeRunning</a></p>
+    <p><i class="fas fa-envelope"></i> hebin_hit (at) hotmail (dot) com</p>
+    <p><i class="fas fa-map-marker-alt"></i> 803 Zonghe Building, 92 West Dazhi St., Harbin, China</p>
+    
+
+    <a href="#bio">[Bio]</a> <a href="#education">[Education]</a> <a href="#publications">[Publications]</a> <a href="#reviewer">[Reviewer]</a> <a href="#employment">[Employment]</a> <a href="#teaching">[Teaching Experience]</a> <a href="#skills">[Skills]</a> <a href="#awards">[Awards]</a> <a href="./cv/cv.pdf">[Get CV in PDF]</a> <br/>
+    <hr />
+  </div>
+
+  <div class="container"></div>
+
+  <div id="section">
+    <a name="bio" class="disabled"><h2> Bio </h2></a>
+    <p>I am now a fifth-year Ph.D. student in computer science at the <a href="http://en.hit.edu.cn/">Harbin Institute of Technology</a>. My research interests include natural language processing and medical informatics. My supervisor is Prof. <a href="http://homepage.hit.edu.cn/pages/guanyi">Yi Guan</a>.</p>
+  </div>
+
+
+  <div id="section">
+    <a name="education" class="disabled"><h2> Education </h2></a>
+    <div>
+      <subsection> <em>Ph.D. candidate</em>, Harbin Institute of Technology</subsection> <span class="pull-right">Sep. 2013 - PRESENT</span></div>
+    <div class="row">
+      <div class="col-md-10">
+        <ul>
+          <li>Major: Computer Science</li>
+        </ul>
+      </div><span class="pull-right"></span></div>
+    <!-- <br/> -->
+    <div>
+      <subsection> <em>M.S.</em>, Harbin Institute of Technology</subsection> <span class="pull-right">Aug. 2011 - Jul. 2013</span></div>
+    <div class="row">
+      <div class="col-md-10">
+        <ul>
+          <li>Major: Computational Mathematics</li>
+          <!-- <li>Final year project: Text-based medical knowledge representation and reasoning.</li> -->
+        </ul>
+      </div><span class="pull-right"></span></div>
+    <!-- <br/> -->
+    <div>
+      <subsection><em>B.S.</em>, Harbin Institute of Technology </subsection> <span class="pull-right">Aug. 2007 - Jul. 2011</span></div>
+    <div class="row">
+      <div class="col-md-10">
+        <ul>
+          <li>Major: Information and Computing Science</li>
+          <!-- <li>Final year project: Syntactic representation and 3D pose information retrieval of space target image</li> -->
+        </ul>
+      </div><span class="pull-right"></span></div>
+  </div>
+
+  <div id="section">
+    <a name="publications" class="disabled"><h2> Publications </h2></a>
+    <a href="https://scholar.google.com/citations?user=XJ6NNMgAAAAJ&hl=zh-CN"> [Google Scholar] </a>
+    <br/><br/>
+
+    <div class="row">
+      <strong>Bin He</strong>, Yi Guan, and Rui Dai. Classifying medical relations in clinical text via convolutional neural networks. (<em>Artificial Intelligence in Medicine</em>, IF: 2.009, under review)
+    </div>
+    <div style="line-height:50%;"><br></div>
+
+    <div class="row">
+      <strong>Bin He</strong>, Yi Guan, and Rui Dai. Combining Convolutional and Recurrent Neural Network for Relation Classification in Clinical Text. (under review)
+    </div>
+    <div style="line-height:50%;"><br></div>
+
+    <div class="row">
+      Zhipeng Jiang, Chao Zhao, <strong>Bin He</strong>, Yi Guan, and Jingchi Jiang. <a href="https://www.sciencedirect.com/science/article/pii/S1532046417302228">De-Identification of Medical Records Using Conditional Random Fields and Long Short-Term Memory Networks.</a> <em>Journal of Biomedical Informatics</em> 75 (2017): S43–53. (IF: 2.753)
+    </div>
+    <div style="line-height:50%;"><br></div>
+
+    <div class="row">
+      Jia Su, <strong>Bin He</strong>, Yi Guan, Jingchi Jiang, and Jinfeng Yang. <a href="https://bmcmedinformdecismak.biomedcentral.com/articles/10.1186/s12911-017-0512-7">Developing a Cardiovascular Disease Risk Factor Annotated Corpus of Chinese Electronic Medical Records.</a> <em>BMC Medical Informatics and Decision Making</em> 17, no. 1 (2017). (IF: 1.643)}
+    </div>
+    <div style="line-height:50%;"><br></div>
+
+    <div class="row">
+      <strong>Bin He</strong>, Bin Dong, Yi Guan, Jinfeng Yang, Zhipeng Jiang, Qiubin Yu, Jianyi Cheng, and Chunyan Qu. <a href="https://www.sciencedirect.com/science/article/pii/S153204641730076X">Building a Comprehensive Syntactic and Semantic Corpus of Chinese Clinical Texts.</a> <em>Journal of Biomedical Informatics</em> 69 (2017): 203–17. (IF: 2.753)
+    </div>
+    <div style="line-height:50%;"><br></div>
+
+    <div class="row">
+      Runqi Wang, Xueli Li, Yuli Huang, <strong>Bin He</strong>, and Yi Guan. <a href="http://www.cqvip.com/qk/88783x/201710/673488922.html">Research on the Active Learning Method for Named Entity Recognition of Chinese Electronic Medical Records.</a> <em>China Digital Medicine</em> 12 (10) (2017): 51–53. (In Chinese)
+    </div>
+    <div style="line-height:50%;"><br></div>
+
+    <div class="row">
+      Jinfeng Yang, Yi Guan, <strong>Bin He</strong>, Chunyan Qu, Qiubin Yu, Yaxin Liu, and Yongjie Zhao. <a href="http://www.jos.org.cn/html/2016/11/4880.htm">Corpus Construction for Named Entities and Entity Relations on Chinese Electronic Medical Records.</a> <em>Journal of Software</em> 27, no. 11 (2016): 2725–46. (In Chinese)
+    </div>
+    <div style="line-height:50%;"><br></div>
+
+    <div class="row">
+      <strong>Bin He</strong>, Yi Guan, Jianyi Cheng, Keting Cen, and Wenlan Hua. <a href="https://www.sciencedirect.com/science/article/pii/S1532046415001793">CRFs Based de-Identification of Medical Records.</a> <em>Journal of Biomedical Informatics</em> 58 (2015): S39–46. (IF: 2.753)
+    </div>
+    <div style="line-height:50%;"><br></div>
+
+    <div class="row">
+      Jinfeng Yang, Yi Guan, Xishuang Dong, and <strong>Bin He</strong>. <a href="https://www.aaai.org/ocs/index.php/AAAI/AAAI14/paper/viewPaper/8158">Representing Words as Lymphocytes.</a> <em>Proceedings of the Twenty-Eighth AAAI Conference on Artificial Intelligence</em> 4 (2014): 3146–47.
+    </div>
+    <div style="line-height:50%;"><br></div>
+  </div>
+
+  <div id="section">
+    <a name="reviewer" class="disabled"><h2> Reviewer </h2></a>
+    <div>
+      <subsection> <a href="https://www.journals.elsevier.com/journal-of-biomedical-informatics/">Journal of Biomedical Informatics</a> (IF:2.753)</subsection></div>
+  </div>
+
+  <div id="section">
+    <a name="employment" class="disabled"><h2> Employment </h2></a>
+    <div>
+      <subsection>Internship in natural language computing (NLC) group, Microsoft Research Asia </subsection> <span class="pull-right">Aug. 2014.08 - Nov. 2014</span></div>
+    <div class="row">
+      <div class="col-md-10">
+        <ul>
+          <li>Indentify should-not-be-translated text from Wikipedia <a href="./docs/Should-not-be-translated text.pptx"><i class="far fa-file-powerpoint"></i></li>
+        </ul>
+      </div><span class="pull-right"></span></div>
+  </div>
+
+  <div id="section">
+    <a name="teaching" class="disabled"><h2> Teaching Experience </h2></a>
+    <div>
+      <subsection>TA, Natural language processing</subsection> <span class="pull-right">Fall 2012, Fall 2013, Fall 2014</span>
+    </div>
+  </div>
+
+  <div id="section">
+    <a name="skills" class="disabled"><h2> Skills </h2></a>
+    <ul>
+      <li>Language: Chinese (native), English</li>
+      <li>Programming language: Python (Tensorflow, theano), Shell, Matlab, C#/C++</li>
+      <!-- <li>Script language: Python (Tensorflow, theano), Matlab, Shell</li> -->
+      <li>Operating Systems: Linux</li>
+      <li>Others: LaTeX, Git, HTML</li>
+    </ul>
+  </div>
+
+  <div id="section">
+    <a name="awards" class="disabled"><h2> Awards </h2></a>
+    <ul>
+      <li>The first mathematics competition of Chinese college students (Top 1% in China)<span class="pull-right">Nov. 2009</span></li>
+    </ul>
+    <br/><br/><br/>
+  </div>
+
+  <center>Last Updated: 12 Mar. 2018</center>
+  <br/>
+
+  <!-- Global site tag (gtag.js) - Google Analytics -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=UA-106895371-1"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+
+    function gtag() {
+      dataLayer.push(arguments);
+    }
+    gtag('js', new Date());
+
+    gtag('config', 'UA-106895371-1');
+  </script>
+
+</body>
+
 </html>
